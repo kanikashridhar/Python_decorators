@@ -1,4 +1,4 @@
-""" A rate limit algorithm to limit the rate of incoming requests."""
+""" Algorithm to limit the rate of incoming requests."""
 import time
 import unittest
 
